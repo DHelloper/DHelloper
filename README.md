@@ -22,6 +22,7 @@
 |:---:|:---:|---|
 |<a href="https://pcu.ac.kr/">배재대학교</a>|12.03 - 16.02|배재대학교 컴퓨터공학과 학사과정|
 |<a href="https://pcu.ac.kr/">배재대학교</a>|16.03 - 18.02|배재대학교 컴퓨터공학과 석사과정|
+|<a href="">오믹시스</a>|18.01 - 18.12|기업 부설 연구소 IoT 가정용 식물재배기 연구원|
 |<a href="https://ssafy.com/">SSAFY</a>|22.07 - 22.12|삼성 청년 SW 아카데미 8th 전공 JAVA 트랙|
 |<a href="https://ssafy.com/">SSAFY</a>|22.01 - 22.02|삼성 청년 SW 아카데미 8th 공통 프로젝트 - '6SIX' Team|
 |<a href="https://ssafy.com/">SSAFY</a>|22.02 - 22.04|삼성 청년 SW 아카데미 8th 특화 프로젝트 - '단데기' Team|
