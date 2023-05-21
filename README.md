@@ -26,6 +26,7 @@
 |<a href="https://ssafy.com/">SSAFY</a>|22.07 - 22.12|삼성 청년 SW 아카데미 8th 전공 JAVA 트랙|
 |<a href="https://ssafy.com/">SSAFY</a>|22.01 - 22.02|삼성 청년 SW 아카데미 8th 공통 프로젝트 - 'J6IX' Team|
 |<a href="https://ssafy.com/">SSAFY</a>|22.02 - 22.04|삼성 청년 SW 아카데미 8th 특화 프로젝트 - '단데기' Team|
+|<a href="https://ssafy.com/">SSAFY</a>|22.04 - 22.05|삼성 청년 SW 아카데미 8th 자율 프로젝트 - 'PUMG' Team|
 
 </div>
 <br>
