@@ -14,7 +14,6 @@
 
   [![DHelloper's GitHub stats](https://github-readme-stats.vercel.app/api?username=DHelloper&hide_title=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?    url=https%3A%2F%2Fgithub.com%2FDHelloper%2FDhelloper&count_bg=%233D71C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
   
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?
   url=https%3A%2F%2Fgithub.com%2FDHelloper&count_bg=%23131313&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
