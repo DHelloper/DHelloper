@@ -12,7 +12,7 @@
 <h4 align="center">Contact</h4>
 <div align="center"><a href=mailto:dnflswkddn@gmail.com><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href=mailto:wjdehgud5769@naver.com><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>  <a href=https://dhelloper.tistory.com/><img src="https://img.shields.io/badge/Blog-6BDBB8?style=flat-square&logo=Storyblok&logoColor=white"/></a></div>
 
-[![DHelloper's GitHub stats](https://github-readme-stats.vercel.app/api?username=DHelloper&theme=redical&locale=kr&hide_title=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![DHelloper's GitHub stats](https://github-readme-stats.vercel.app/api?username=DHelloper&locale=kr&hide_title=true&show_icons=true&theme=redical)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDHelloper%2Fhit-counter&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
